@@ -1,0 +1,15 @@
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\bin\Debug\net6.0\pcastanedaOddOrEven.exe
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\bin\Debug\net6.0\pcastanedaOddOrEven.deps.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\bin\Debug\net6.0\pcastanedaOddOrEven.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\bin\Debug\net6.0\pcastanedaOddOrEven.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\bin\Debug\net6.0\pcastanedaOddOrEven.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\refint\pcastanedaOddOrEven.dll
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.pdb
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\pcastanedaOddOrEven.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\combine22-23\level1\assignments\pcastanedaOddOrEven\obj\Debug\net6.0\ref\pcastanedaOddOrEven.dll
